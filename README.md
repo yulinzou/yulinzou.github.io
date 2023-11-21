@@ -1,2 +1,2 @@
-# [Zou Yulin Personal Page](https://yulinzou.github.io/)
+# [Zou Yulin](https://yulinzou.github.io/) Personal Page
 Personal academic personal websites, forked from mmistakes/minimal-mistakes
