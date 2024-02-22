@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zou Yulin"
 title_separator          : "-"
 name                     : &name "Zou Yulin"
-description              : &description "Incoming Ph.D. student at Nanyang Technological University"
+description              : &description "Ph.D. student at Nanyang Technological University"
 url                      : https://yulinzou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yulinzou/yulinzou.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zou Yulin 邹钰林"
   avatar           : "profile.jpg"
-  bio              : "Research Engineer @ Continental-NTU Corp Lab"
+  bio              : "Ph.D. Student @ HyScale NTU"
   location         : "Singapore"
   employer         :
   pubmed           : 
