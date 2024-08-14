@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a Ph.D. student at [Nanyang Technological University](https://www.ntu.edu.sg), supervised by [Prof. Dmitrii Ustiugov](https://ustiugov.github.io/). 
 
-**Bio:** Previously, I worked as a Research Engineer at [Continental-NTU Corporate Lab](https://www.ntu.edu.sg/continental-ntu). I received my Bachelor's degree from SCSE, now known as [CCDS](https://www.ntu.edu.sg/computing), NTU in 2022. My primary focus of research is on the development and implementation of serverless cloud-edge computing frameworks for various kinds of workloads.
+**Bio:** Previously, I worked as a Research Engineer at [Continental-NTU Corporate Lab](https://www.ntu.edu.sg/continental-ntu). I received my Bachelor's degree from SCSE, now known as [CCDS](https://www.ntu.edu.sg/computing), NTU in 2022. My primary research focus is designing and optimizing serverless cloud-edge computing frameworks for various kinds of workloads.
 
 
 Education and Experience
