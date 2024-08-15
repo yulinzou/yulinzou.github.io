@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zou Yulin"
+title                    : "Personal Webpage"
 title_separator          : "-"
 name                     : &name "Zou Yulin"
 description              : &description "Ph.D. student at Nanyang Technological University"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zou Yulin 邹钰林"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. Student @ HyScale NTU"
+  bio              : "Ph.D. Student @ CCDS NTU"
   location         : "Singapore"
   employer         :
   pubmed           : 
