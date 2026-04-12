@@ -15,10 +15,10 @@ I received my Bachelor's degree from SCSE, now known as [CCDS](https://www.ntu.e
 News
 ----
 
-* [2026-04] Our paper *CodecSight* was released on arXiv: [arXiv:2604.06036](https://arxiv.org/abs/2604.06036)
+* [2026-04] Our work *CodecSight* was released on arXiv: [arXiv:2604.06036](https://arxiv.org/abs/2604.06036)
 
-Publications
-------------
+Publications & Preprints
+------------------------
 
 ### CodecSight: Leveraging Video Codec Signals for Efficient Streaming VLM Inference
 Yulin Zou, Yan Chen, Wenyan Chen, JooYoung Park, Shivaraman Nitin, Luo Tao, Francisco Romero, Dmitrii Ustiugov  

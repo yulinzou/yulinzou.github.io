@@ -25,7 +25,7 @@ redirect_from:
 * Cloud-edge distributed systems
 * Serverless computing
 
-## Publications
+## Publications & Preprints
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
