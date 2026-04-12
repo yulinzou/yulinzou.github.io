@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Zou Yulin 邹钰林"
-  avatar           : "profile.jpg"
+  avatar           : "profile.jpeg"
   bio              : "Ph.D. Student @ CCDS NTU"
   location         : "Singapore"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=aj-wcbgAAAAJ"
   email            : "yulin001@e.ntu.edu.sg"
   researchgate     :  
   uri              :
@@ -179,7 +179,7 @@ collections:
     output: false
     permalink: /:collection/:path/
   publications:
-    output: false
+    output: true
     permalink: /:collection/:path/
   portfolio:
     output: false

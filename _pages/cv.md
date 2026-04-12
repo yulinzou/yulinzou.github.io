@@ -9,51 +9,31 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## Education
+* Ph.D. in Computer Science, Nanyang Technological University, Jan 2024 - Present
+* B.E. (Honours) in Computer Engineering, Nanyang Technological University, Aug 2018 - May 2022
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## Work experience
+* Research Assistant, Nanyang Technological University, Jun 2022 - Jan 2024
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Awards
+* A*STAR Graduate Scholarship, Singapore
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Research Interests
+* Systems for ML
+* Vision-language model (VLM) serving
+* Cloud-edge distributed systems
+* Serverless computing
 
-Publications
-======
+## Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+## Teaching
+* AY25/26 S1: SC2005 Operating Systems, Teaching Assistant (lab supervision)
+* AY24/25 S2: SC1006 Computer Organisation & Architecture, Teaching Assistant (lab supervision)
+* AY24/25 S1: SC2001 Algorithms, Teaching Assistant (lab supervision)
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Service and leadership
+* (To be updated)
