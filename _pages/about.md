@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a Ph.D. student at [Nanyang Technological University](https://www.ntu.edu.sg), supervised by [Prof. Dmitrii Ustiugov](https://ustiugov.github.io/).
 
-I received my Bachelor's degree from SCSE, now known as [CCDS](https://www.ntu.edu.sg/computing), NTU in 2022. My research focuses on designing and optimizing serverless cloud-edge computing frameworks for diverse workloads.
+I received my Bachelor's degree from SCSE, now known as [CCDS](https://www.ntu.edu.sg/computing), NTU in 2022. My research focuses on systems for efficient ML inference, cloud-edge and serverless frameworks.
 
 News
 ----
